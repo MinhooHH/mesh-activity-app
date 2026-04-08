@@ -1,0 +1,11 @@
+name: mesh_activity_app
+version: 1.0.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  bluetooth:
+  wifi:
+
+flutter:
+  uses-material-design: true
